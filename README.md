@@ -2,8 +2,8 @@
 
 ## Indice
 1.  ¿Que es la contaminación ambiental?
-2.  Residuos Informaticos
-3.  Obsolescecia Programada
+2.  (Residuos Informaticos)[/Documentos/residuos.md]
+3.  [Obsolescecia Programada](/Documentos/obsolescencia_programada.md)
 4.  Infotmatica Ecologica
 
 ## Referencias
@@ -12,7 +12,8 @@
 2.  Residuos Informaticos
   *
 3.  Obsolescecia Programada
-  *
+  * (Wikipedia)[https://es.wikipedia.org/wiki/Obsolescencia_programada]
+  * (Ecointeligencia)[https://www.ecointeligencia.com/2012/11/la-obsolescencia-programada-y-las-bombi]
 4.  Infotmatica Ecologica
   *
 ## Autores
