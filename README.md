@@ -12,7 +12,7 @@
 2.  Residuos Informaticos
   *
 3.  Obsolescecia Programada
-  * (Wikipedia)[https://es.wikipedia.org/wiki/Obsolescencia_programada]
+  * [Wikipedia][https://es.wikipedia.org/wiki/Obsolescencia_programada]
   * (Ecointeligencia)[https://www.ecointeligencia.com/2012/11/la-obsolescencia-programada-y-las-bombi]
 4.  Infotmatica Ecologica
   *
