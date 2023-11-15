@@ -20,4 +20,8 @@ Las consecuencias de la contaminación ambiental pueden ser grandes y devastador
 
 ![conta-tierra](/Imagenes/conta-tierra.jpg)
 
+## Metodos comunes para combatir la contaminacion ambiental
+1. **Uso del transporte publico**: Parar la emision de gases de efecto invernadero que nuestros coches producen a parte de ralentizar el uso de combustibles fosiles.
+2. **Reciclaje**: La reutilizacion de materiales reciclables frena la contaminacion terrestre probocada por nuestra basura.
+3. **Uso de energias renovables**: Energia solar, eólica y hidroelectrica son algunas de las fuentes de energia mas saludables para el medio ambiente.
 [Atrás](/README.md)
