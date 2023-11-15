@@ -10,7 +10,8 @@
 1.  ¿Que es la contaminación ambiental?
   * [BBVA](https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/)
 2.  Residuos Informaticos
-  *
+    [Iberdrola](https://www.iberdrola.com/sostenibilidad/que-es-basura-tecnologica)
+    [Fundacion Aquare](https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/)
 3.  Obsolescecia Programada
   * [Wikipedia](https://es.wikipedia.org/wiki/Obsolescencia_programada)
   * [Ecointeligencia](https://www.ecointeligencia.com/2012/11/la-obsolescencia-programada-y-las-bombi)
