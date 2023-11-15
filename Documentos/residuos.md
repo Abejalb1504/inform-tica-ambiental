@@ -26,7 +26,7 @@ Hay una serie de residuos, que se dividen en los siguientes dependiendo del func
 3. **Reciclar:** Cuando la opcion de reutilizar no está disponible, una alternativa que tenemos es entregar el dispositivo antiguo al establecimiento donde se compra o a alguna empresa en especifico de reciclaje de ese dispositivo en concreto, para que se encarguen ellos del reciclaje y de sacarle el maximo provecho sin necesidad de tirarlo y contaminar.
 
 
-
+### Paises que reciclan
 ![Paises_que_reciclan](/Documentos/pdfs/infografiapqr.pdf)
 
 [Atrás](/README.md)
