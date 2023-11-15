@@ -4,18 +4,18 @@
 1.  [¿Que es la contaminación ambiental?](/Documentos/contaminacion.md)
 2.  [Residuos Informaticos](/Documentos/residuos.md)
 3.  [Obsolescecia Programada](/Documentos/obsolescencia_programada.md)
-4.  [Informatica Ecologica]()
+4.  [Informatica Ecologica](/Documentos/informatica_ecologica.md)
 
 ## Referencias
 1.  ¿Que es la contaminación ambiental?
-  *
+  * [BBVA](https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/)
 2.  Residuos Informaticos
   *
 3.  Obsolescecia Programada
   * [Wikipedia](https://es.wikipedia.org/wiki/Obsolescencia_programada)
   * [Ecointeligencia](https://www.ecointeligencia.com/2012/11/la-obsolescencia-programada-y-las-bombi)
 4.  Informatica Ecologica
-  *
+  * [GeekFare](https://geekflare.com/es/green-computing-for-sustainable-future/)
 ## Autores
 Adrián Bejarano, [Deneb](https://github.com/Xicobot), Manuel.
 
