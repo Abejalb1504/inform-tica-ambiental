@@ -18,7 +18,7 @@ Hay una serie de residuos, que se dividen en los siguientes dependiendo del func
 * Lámparas LED.
 * Máquinas expendedoras.
 
-![residuos2](/Imagenes/residuos2l.jpg)
+![residuos2](/Imagenes/residuos2.jpg)
 
 ## ¿Como podemos ayudar?
 1. Podemos reducir el consumo del producto: como por ejemplo usar menos tiempo el telefono, o usarlo solo esencialmente para reducir de manera drastica su vida utíl y consumir menos el producto.
