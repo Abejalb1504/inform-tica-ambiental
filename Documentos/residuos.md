@@ -25,6 +25,6 @@ Hay una serie de residuos, que se dividen en los siguientes dependiendo del func
 2. **Reutilizar el producto:** Un ejemplo es que cuando nosotros cambiemos de telefono ya sea porque nos nos funciona como nosotros queremos, o queremos cambiarlo, pues podemos heredarlo, venderlo de segunda mano, en vez de tirarlo a la basura que es lo primero que pensamos a la hora de cambiar de dispositivo.
 3. **Reciclar:** Cuando la opcion de reutilizar no está disponible, una alternativa que tenemos es entregar el dispositivo antiguo al establecimiento donde se compra o a alguna empresa en especifico de reciclaje de ese dispositivo en concreto, para que se encarguen ellos del reciclaje y de sacarle el maximo provecho sin necesidad de tirarlo y contaminar.
 
-### ![Paises_que_reciclan](/Documentos/Pdfs/infografiapqr.pdf)
+### ![Paises que reciclan](/Documentos/Pdfs/infografiapqr.pdf)
 
 [Atrás](/README.md)
