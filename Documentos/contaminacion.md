@@ -10,12 +10,14 @@ Las consecuencias de la contaminación ambiental pueden ser grandes y devastador
 
 1. **Contaminación del aire**: la polución generada por los gases contaminantes nos afecta a todos generando problemas repiratorios y tambien contribuyendo al calentamiento global.
 
-![conta-aire](Imagenes/conta-aire.jpg)
+![conta-aire](/Imagenes/conta-aire.jpg)
+
 2. **Contaminación del agua**: Mata a todo el ecosistema subacuatico y vuelve al agua no potable.
 
-![conta-agua](Imagenes/conta-agua.jpg)
+![conta-agua](/Imagenes/conta-agua.jpg)
+
 3. **Contaminación de la tierra**: Acaba con la vida terrestre y enevenena la tierra.
 
-![conta-tierra](Imagenes/conta-tierra.jpg)
+![conta-tierra](/Imagenes/conta-tierra.jpg)
 
 [Atrás](/README.md)
