@@ -1,7 +1,7 @@
 # Informatica Ambiental
 
 ## Indice
-1.  [¿Que es la contaminación ambiental?]()
+1.  [¿Que es la contaminación ambiental?](/Documentos/contaminacion.md)
 2.  [Residuos Informaticos](/Documentos/residuos.md)
 3.  [Obsolescecia Programada](/Documentos/obsolescencia_programada.md)
 4.  [Informatica Ecologica]()
