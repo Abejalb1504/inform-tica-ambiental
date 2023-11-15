@@ -13,5 +13,5 @@ Este desafío resultó en la creación de un programa innovador: Energy Star en 
 
 El objetivo de este programa es el de reconocer y promover monitores energéticamente efricientes. Esto condujo a lo que hoy en dia llamamos incormatica ecologica o computacion verde.
 
-[Atras](README.md)
+[Atras](/README.md)
 
