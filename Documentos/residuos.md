@@ -18,6 +18,6 @@ Hay una serie de residuos, que se dividen en los siguientes dependiendo del func
 * Lámparas LED.
 * Máquinas expendedoras.
 
-![Paises_que_reciclan](/pdfs/infografiapqr.pdf)
+![Paises_que_reciclan](/Documentos/pdfs/infografiapqr.pdf)
 
 [Atrás](/README.md)
