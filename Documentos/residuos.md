@@ -20,11 +20,11 @@ Hay una serie de residuos, que se dividen en los siguientes dependiendo del func
 
 ![residuos2](/Imagenes/residuos2.jpg)
 
-## ¿Como podemos ayudar?
+## ¿Como podemos ayudar?_
 1. **Podemos reducir el consumo del producto:** como por ejemplo usar menos tiempo el telefono, o usarlo solo esencialmente para reducir de manera drastica su vida utíl y consumir menos el producto.
 2. **Reutilizar el producto:** Un ejemplo es que cuando nosotros cambiemos de telefono ya sea porque nos nos funciona como nosotros queremos, o queremos cambiarlo, pues podemos heredarlo, venderlo de segunda mano, en vez de tirarlo a la basura que es lo primero que pensamos a la hora de cambiar de dispositivo.
 3. **Reciclar:** Cuando la opcion de reutilizar no está disponible, una alternativa que tenemos es entregar el dispositivo antiguo al establecimiento donde se compra o a alguna empresa en especifico de reciclaje de ese dispositivo en concreto, para que se encarguen ellos del reciclaje y de sacarle el maximo provecho sin necesidad de tirarlo y contaminar.
 
-### ![Paises que reciclan](/Documentos/Pdfs/infografiapqr.pdf)
+### ![Paises que reciclan](/Documentos/Pdfs/infografia_pqr.pdf)
 
 [Atrás](/README.md)
