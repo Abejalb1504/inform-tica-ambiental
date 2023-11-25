@@ -10,7 +10,7 @@ De aqui podemos sacar dos puntos importantes.
 ![residuos1](/Imagenes/residuos1.jpg)
 
 ## ¿Que tipos de residuos hay? 
-Hay una serie de residuos, que se dividen en los siguientes dependiendo del funcionamiento y sus componentes:
+Hay una serie de residuos, __que se dividen en los siguientes dependiendo del funcionamiento y sus componentes:__
 * Frigoríficos, congeladores y otros equipos refrigeradores.
 * Equipos de informática y telecomunicaciones.
 * Aparatos electrónicos de consumo y paneles fotovoltaicos.
