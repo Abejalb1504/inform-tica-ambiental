@@ -1,7 +1,7 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/jason5ng32/informatica-ambiental)
-![GitHub](https://img.shields.io/github/license/jason5ng32/informatica-ambiental)
-![GitHub contributors](https://img.shields.io/github/contributors/jason5ng32/informatica-ambiental)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/jason5ng32/informatica-ambiental)
+![GitHub Repo stars](https://img.shields.io/github/stars/abejalb1504/informatica-ambiental)
+![GitHub](https://img.shields.io/github/license/abejalb1504/informatica-ambiental)
+![GitHub contributors](https://img.shields.io/github/contributors/abejalb1504/informatica-ambiental)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/abejalb1504/informatica-ambiental)
 # Informatica Ambiental
 
 ## Indice
