@@ -1,14 +1,14 @@
 ## Informática ecólogica
-# ¿Que es la informartica ecológica?
+# ¿Que es la Informartica Ecológica?
 La informática ecológica es un reenfoque de esta misma con el objetivo de respetar a la naturaleza para esto, hay que realizar el uso de dispositivos con el **minimo** uso de energia y reducir la huella de carbono que se crea al fabricar los dispositivos.
 ![planta.jpg](Imagenes/planta.jpg) 
 ---
-# Historia de la informática ecologica 
+# Historia de la Informática Ecologica 
 El origen de la informatica ecologica a 1992 cuando la EPA da un paso a el programa **Energy Star** que su objetico era resaltar a dispositivos que tuvieran un hardware realmente eficiente y hacer que las empresas empezaran a desallorarlos al darles ventaja de marketing.
 
 Avanzando al año 2004 intel empezo a optar por un reenfoque nuevo promocionando la eficiencia energetica por la potencia.
 ----
-# Principios de la informatica electronica
+# Principios de la Informatica Ecologica
     Diseño de Hardware Eficiente: Fabricación de dispositivos electrónicos que consumen menos energía durante su funcionamiento, como computadoras y servidores más eficientes energéticamente.
 
     Fuentes de Energía Renovable: Uso de energías renovables (solar, eólica, etc.) para alimentar centros de datos y operaciones informáticas, reduciendo así la huella de carbono.
